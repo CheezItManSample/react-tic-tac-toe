@@ -6,6 +6,8 @@ import Board from './components/Board';
 const PLAYER_1 = 'x';
 const PLAYER_2 = 'o';
 
+console.log('I love Github!');
+
 const generateSquares = () => {
   const squares = [];
   let row = 0;
